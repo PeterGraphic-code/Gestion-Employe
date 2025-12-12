@@ -1,0 +1,14 @@
+C:\UEH\TP 6\bin\Debug\net10.0\TP 6.exe
+C:\UEH\TP 6\bin\Debug\net10.0\TP 6.deps.json
+C:\UEH\TP 6\bin\Debug\net10.0\TP 6.runtimeconfig.json
+C:\UEH\TP 6\bin\Debug\net10.0\TP 6.dll
+C:\UEH\TP 6\bin\Debug\net10.0\TP 6.pdb
+C:\UEH\TP 6\obj\Debug\net10.0\TP 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\UEH\TP 6\obj\Debug\net10.0\TP 6.AssemblyInfoInputs.cache
+C:\UEH\TP 6\obj\Debug\net10.0\TP 6.AssemblyInfo.cs
+C:\UEH\TP 6\obj\Debug\net10.0\TP 6.csproj.CoreCompileInputs.cache
+C:\UEH\TP 6\obj\Debug\net10.0\TP 6.dll
+C:\UEH\TP 6\obj\Debug\net10.0\refint\TP 6.dll
+C:\UEH\TP 6\obj\Debug\net10.0\TP 6.pdb
+C:\UEH\TP 6\obj\Debug\net10.0\TP 6.genruntimeconfig.cache
+C:\UEH\TP 6\obj\Debug\net10.0\ref\TP 6.dll
